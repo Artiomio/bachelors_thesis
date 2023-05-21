@@ -1,0 +1,181 @@
+This is TeX, Version 3.14159 (MiKTeX 1.07) (preloaded format=latex 98.2.16)  18 JUN 2011 14:48
+**&latex artem.tex
+(artem.tex
+LaTeX2e <1996/12/01> patch level 1
+(article.cls
+Document Class: article 1996/10/31 v1.3u Standard LaTeX document class
+(size12.clo
+File: size12.clo 1996/10/31 v1.3u Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (cyrwin.sty (rusalt.sty) (lh.sty
+Russian style for CyrTUG fonts by Sergei Naumov. v1.3 95/04/26
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lhcyr/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lhcyr/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/lhcyr/m/n --> OT1/lhcyr/bx/n on input line 26.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 27.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lhcyr/bx/n on input line 27.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lhcyr/bx/n on input line 27.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 28.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lhcss/m/n on input line 28.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lhcss/m/n on input line 28.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lhcyr/m/it on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lhcyr/m/it on input line 29.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 30.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lhctt/m/n on input line 30.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lhctt/m/n on input line 30.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/lhcss/m/n --> OT1/lhcss/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/lhcyr/m/it --> OT1/lhcyr/bx/it on input line 32.
+) (wincode.sty
+Style `wincode' v1.0 <13.03.97> (Vladimir Korobov <korobov@nu.jinr.dubna.su>
+)) (artem.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Try loading font information for OT1+lhcyr on input line 20
+.
+ (ot1lhcyr.fd)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 22.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 22.
+ [1
+
+] [2] [3]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 190.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 190.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 190.
+ [4]
+LaTeX Font Info:    Try loading font information for OMS+lhcyr on input line 27
+6.
+LaTeX Font Info:    No file OMSlhcyr.fd. on input line 276.
+
+
+LaTeX Font Warning: Font shape `OMS/lhcyr/m/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead
+(Font)              for symbol `textbullet' on input line 276.
+
+[5] [6] [7] [8]
+Overfull \hbox (1.41106pt too wide) in paragraph at lines 585--585
+[]\OT1/lhcyr/bx/n/14.4 ^^88^^e1^^af^^ab^^ec^^a7^^ae^^a2^^a0^^ad^^a8^^a5 ^^a0^^e
+1^^a8^^ac-^^af^^e2^^ae-^^e2^^a8-^^e7^^a5-^^e1^^aa^^a8^^e5 ^^e0^^a0^^a7-^^ab^^ae
+-^^a6^^a5-^^ad^^a8^^a9 ^^a4^^ab^^ef
+ []
+
+
+Overfull \hbox (48.7127pt too wide) in paragraph at lines 627--631
+[]\OT1/lhcyr/m/n/12 ^^92^^a5^^ac ^^ad^^a5 ^^ac^^a5-^^ad^^a5^^a5, ^^af^^ae-^^e1^
+^aa^^ae^^ab^^ec-^^aa^^e3 ^^ae^^a4-^^ad^^ae-^^aa^^e0^^a0^^e2-^^ad^^ae^^a5 ^^a2^^
+eb-^^e7^^a8-^^e1^^ab^^a5-^^ad^^a8^^a5 ^^a8^^ad-^^e2^^a5-^^a3^^e0^^a0-^^ab^^a0 ^
+^ae^^e2 $[](\OMS/lhcyr/m/n/12 ^^@\OT1/lhcyr/m/n/12 ^^@[][])$
+ []
+
+[9] [10]
+Overfull \hbox (5.05284pt too wide) in paragraph at lines 762--771
+[]\OT1/lhcyr/m/n/12 ^^84^^e0^^e3^^a3^^a8^^ac ^^af^^e0^^a8-^^ad^^a8-^^ac^^a0-^^a
+5-^^ac^^eb^^ac ^^a2 ^^e0^^a0^^e1-^^e7^^a5^^e2 ^^e4^^a0^^aa-^^e2^^ae-^^e0^^ae^^a
+c ^^ef^^a2^^ab^^ef-^^a5^^e2-^^e1^^ef ^^af^^e0^^a0^^aa-^^e2^^a8-^^e7^^a5-^^e1^^a
+a^^a8 ^^e4^^e0^^ae^^ad-
+ []
+
+[11]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <17.28> on input line 806.
+ [12] [13] [14] [15]
+Overfull \hbox (5.83913pt too wide) in alignment at lines 1143--1149
+ [][][] []
+ []
+
+
+Overfull \hbox (17.85863pt too wide) in paragraph at lines 1162--1167
+\OT1/lhcyr/m/n/12 ^^e6^^a8^^a8 $\OMS/lhcyr/m/n/12 ^^@\OT1/lhcyr/m/n/12 ^^@[][]$
+. ^^8c^^ae^^a6-^^ad^^ae ^^a2^^a7^^ef^^e2^^ec, ^^ad^^a0-^^af^^e0^^a8-^^ac^^a5^^e
+0, $\OML/cmm/m/it/12 exp\OT1/lhcyr/m/n/12 (\OMS/lhcyr/m/n/12 ^^@\OML/cmm/m/it/1
+2 Ax[]\OT1/lhcyr/m/n/12 )$ ^^a8^^ab^^a8 $\OML/cmm/m/it/12 exp\OT1/lhcyr/m/n/12 
+(\OMS/lhcyr/m/n/12 ^^@\OML/cmm/m/it/12 Ax[]\OT1/lhcyr/m/n/12 )$
+ []
+
+[16] [17] [18] [19]
+Overfull \hbox (23.06387pt too wide) detected at line 1527
+\OML/cmm/m/it/12 ^^R[]\OT1/lhcyr/m/n/12 (\OMS/lhcyr/m/n/12 1\OT1/lhcyr/m/n/12 )
+ = \OML/cmm/m/it/12 exp\OT1/lhcyr/m/n/12 [\OMS/lhcyr/m/n/12 ^^@\OML/cmm/m/it/12
+ f[]\OT1/lhcyr/m/n/12 ^^A[]\OML/cmm/m/it/12 x[]\OT1/lhcyr/m/n/12 ([](1 + ([])[]
+)[] + [](1 + ([])[])[])]  \OML/cmm/m/it/12 ;
+ []
+
+
+Overfull \hbox (34.08301pt too wide) detected at line 1546
+\OML/cmm/m/it/12 f[] \OT1/lhcyr/m/n/12 = \OML/cmm/m/it/12 f[]exp\OT1/lhcyr/m/n/
+12 (\OMS/lhcyr/m/n/12 ^^@[][] ^^@ [][]\OML/cmm/m/it/12 z[] \OMS/lhcyr/m/n/12 ^^
+@ \OML/cmm/m/it/12 f[][] [][] exp\OT1/lhcyr/m/n/12 (\OMS/lhcyr/m/n/12 ^^@\OT1/l
+hcyr/m/n/12 ([])[] \OMS/lhcyr/m/n/12 ^^@ \OT1/lhcyr/m/n/12 ([])[])\OML/cmm/m/it
+/12 dx\OT1/lhcyr/m/n/12 )  \OML/cmm/m/it/12 :
+ []
+
+[20] [21] [22] [23] [24]
+Overfull \hbox (1.0312pt too wide) in paragraph at lines 1913--1920
+\OT1/lhcyr/m/n/12 ^^a8 ^^af^^e0^^a0^^aa-^^e2^^a8-^^e7^^a5-^^e1^^aa^^a8 ^^e1^^ae
+-^^a2^^af^^a0-^^a4^^a0-^^a5^^e2 ^^e1 $\OML/cmm/m/it/12 ^^N[]x$\OT1/lhcyr/m/n/12
+ . ^^92^^a0-^^aa^^a8^^ac ^^ae^^a1^^e0^^a0-^^a7^^ae^^ac, ^^af^^ae-^^a4^^eb^^ad-^
+^e2^^a5-^^a3^^e0^^a0^^ab^^ec-^^ad^^a0^^ef ^^e4^^e3^^ad^^aa-
+ []
+
+[25] [26] [27]
+Overfull \hbox (2.33206pt too wide) in paragraph at lines 2161--2164
+[]\OT1/lhcyr/m/n/12 ^^82^^eb^^a1^^a8^^e0^^a0^^a5^^ac ^^a5^^a4^^a8-^^ad^^e3^^ee 
+^^a4^^ab^^a8-^^ad^^e3 $^^A\OML/cmm/m/it/12 x$ \OT1/lhcyr/m/n/12 ^^e1^^af^^a5^^a
+a-^^e2^^e0^^a0, ^^e1^^ae-^^ae^^e2-^^a2^^a5^^e2-^^e1^^e2^^a2^^e3-^^ee-^^e9^^e3^^
+ee ^^e0^^a5-^^a0^^ab^^ec-^^ad^^ae^^a9 ^^a4^^ab^^a8-
+ []
+
+[28] [29]
+Overfull \hbox (3.65355pt too wide) in paragraph at lines 2336--2340
+\OT1/lhcyr/m/n/12 ^^ad^^ae-^^a4^^a8^^e1-^^af^^a5^^e0^^e1-^^ad^^ae^^ac ^^af^^e0^
+^a8-^^a1^^ab^^a8-^^a6^^a5-^^ad^^a8^^a8 ^^a8 ^^af^^ae-^^aa^^a0-^^a7^^a0-^^ad^^ae
+, ^^aa^^a0^^aa ^^af^^e3-^^e2^^a5^^ac ^^af^^ae-^^e1^^e2^^e0^^ae-^^a5-^^ad^^a8^^e
+f ^^a0^^e1^^a8^^ac-
+ []
+
+[30] [31] [32] (artem.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ )
+Output written on artem.dvi (32 pages, 118740 bytes).

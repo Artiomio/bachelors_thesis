@@ -1,0 +1,126 @@
+This is TeX, Version 3.14159 (MiKTeX 1.07) (preloaded format=latex 98.2.16)  19 JUN 2011 23:05
+**&latex artem_presentacia.tex
+(artem_presentacia.tex
+LaTeX2e <1996/12/01> patch level 1
+(article.cls
+Document Class: article 1996/10/31 v1.3u Standard LaTeX document class
+(size12.clo
+File: size12.clo 1996/10/31 v1.3u Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (cyrwin.sty (rusalt.sty) (lh.sty
+Russian style for CyrTUG fonts by Sergei Naumov. v1.3 95/04/26
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lhcyr/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lhcyr/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/lhcyr/m/n --> OT1/lhcyr/bx/n on input line 26.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 27.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lhcyr/bx/n on input line 27.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lhcyr/bx/n on input line 27.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 28.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lhcss/m/n on input line 28.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lhcss/m/n on input line 28.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lhcyr/m/it on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lhcyr/m/it on input line 29.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 30.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lhctt/m/n on input line 30.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lhctt/m/n on input line 30.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/lhcss/m/n --> OT1/lhcss/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/lhcyr/m/it --> OT1/lhcyr/bx/it on input line 32.
+) (wincode.sty
+Style `wincode' v1.0 <13.03.97> (Vladimir Korobov <korobov@nu.jinr.dubna.su>
+)) (artem_presentacia.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Try loading font information for OT1+lhcyr on input line 20
+.
+ (ot1lhcyr.fd)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 22.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 22.
+ [1
+
+]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 29.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 29.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 29.
+ [2] [3] [4] [5] [6] [7] [8]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <17.28> on input line 170.
+
+Overfull \hbox (1.91269pt too wide) in paragraph at lines 167--176
+\OT1/lhcyr/m/n/17.28 ^^e8^^a5^^a9 ^^a2^^eb-^^a7^^a2^^a0-^^ad^^ae ^^a8^^e1-^^e2^
+^ae-^^e9^^a5-^^ad^^a8-^^a5^^ac ^^a3^^a5-^^e2^^a5-^^e0^^ae-^^a3^^a5^^ad-^^ad^^eb
+^^e5 ^^e6^^a5^^ad-^^e2^^e0^^ae^^a2, ^^ae^^e8^^a8^^a1-
+ []
+
+[9] [10] [11] [12] [13] [14] [15] [16] [17] [18] [19] [20] [21]
+Overfull \hbox (2.33206pt too wide) in paragraph at lines 389--392
+[]\OT1/lhcyr/m/n/12 ^^82^^eb^^a1^^a8^^e0^^a0^^a5^^ac ^^a5^^a4^^a8-^^ad^^e3^^ee 
+^^a4^^ab^^a8-^^ad^^e3 $^^A\OML/cmm/m/it/12 x$ \OT1/lhcyr/m/n/12 ^^e1^^af^^a5^^a
+a-^^e2^^e0^^a0, ^^e1^^ae-^^ae^^e2-^^a2^^a5^^e2-^^e1^^e2^^a2^^e3-^^ee-^^e9^^e3^^
+ee ^^e0^^a5-^^a0^^ab^^ec-^^ad^^ae^^a9 ^^a4^^ab^^a8-
+ []
+
+[22] [23] [24] [25] [26] [27] [28] [29]
+LaTeX Font Info:    Try loading font information for OMS+lhcyr on input line 51
+5.
+LaTeX Font Info:    No file OMSlhcyr.fd. on input line 515.
+
+
+LaTeX Font Warning: Font shape `OMS/lhcyr/m/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead
+(Font)              for symbol `textbullet' on input line 515.
+
+
+Overfull \hbox (3.65355pt too wide) in paragraph at lines 528--532
+\OT1/lhcyr/m/n/12 ^^ad^^ae-^^a4^^a8^^e1-^^af^^a5^^e0^^e1-^^ad^^ae^^ac ^^af^^e0^
+^a8-^^a1^^ab^^a8-^^a6^^a5-^^ad^^a8^^a8 ^^a8 ^^af^^ae-^^aa^^a0-^^a7^^a0-^^ad^^ae
+, ^^aa^^a0^^aa ^^af^^e3-^^e2^^a5^^ac ^^af^^ae-^^e1^^e2^^e0^^ae-^^a5-^^ad^^a8^^e
+f ^^a0^^e1^^a8^^ac-
+ []
+
+[30] (artem_presentacia.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ )
+Output written on artem_presentacia.dvi (30 pages, 23832 bytes).

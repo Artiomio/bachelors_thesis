@@ -1,0 +1,82 @@
+This is TeX, Version 3.14159 (MiKTeX 1.07) (preloaded format=latex 98.2.16)  18 JUN 2011 18:52
+**&latex rez1.tex
+(rez1.tex
+LaTeX2e <1996/12/01> patch level 1
+(article.cls
+Document Class: article 1996/10/31 v1.3u Standard LaTeX document class
+(size12.clo
+File: size12.clo 1996/10/31 v1.3u Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (cyrwin.sty (rusalt.sty) (lh.sty
+Russian style for CyrTUG fonts by Sergei Naumov. v1.3 95/04/26
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lhcyr/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lhcyr/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/lhcyr/m/n --> OT1/lhcyr/bx/n on input line 26.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 27.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lhcyr/bx/n on input line 27.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lhcyr/bx/n on input line 27.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 28.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lhcss/m/n on input line 28.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lhcss/m/n on input line 28.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lhcyr/m/it on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lhcyr/m/it on input line 29.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 30.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lhctt/m/n on input line 30.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lhctt/m/n on input line 30.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/lhcss/m/n --> OT1/lhcss/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/lhcyr/m/it --> OT1/lhcyr/bx/it on input line 32.
+) (wincode.sty
+Style `wincode' v1.0 <13.03.97> (Vladimir Korobov <korobov@nu.jinr.dubna.su>
+)) (rez1.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Try loading font information for OT1+lhcyr on input line 20
+.
+ (ot1lhcyr.fd)
+Overfull \hbox (0.87303pt too wide) in paragraph at lines 41--53
+[]\OT1/lhcyr/m/n/12 ^^90^^a0^^a1^^ae^^e2^^a0 ^^80. ^^af^^a5^^a9-^^e1^^a0-^^e5^^
+ae^^a2-^^e1^^aa^^ae-^^a3^^ae ^^af^^ae-^^e1^^a2^^ef-^^e9^^a5-^^ad^^a0 ^^af^^ae-^
+^e1^^e2^^e0^^ae-^^a5-^^ad^^a8^^ee ^^a0^^e1^^a8^^ac-^^af^^e2^^ae-^^e2^^a8-^^e7^^
+a5-^^e1^^aa^^a8^^e5 ^^e0^^a0^^a7-
+ []
+
+[1
+
+] (rez1.aux) )
+Output written on rez1.dvi (1 page, 2768 bytes).
